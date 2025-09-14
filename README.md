@@ -27,7 +27,8 @@ For scheduling optimization, the focus is on `Job_ID`, `Machine_ID`, `Processing
 ---
 
 
-![Alt text](https://example.com/myimage.png)
+![Alt text](https://user-gen-media-assets.s3.amazonaws.com/gemini_images/43def2ec-ec1a-4383-b972-cb349db26f27.png)
+
 
 ## Methodology
 

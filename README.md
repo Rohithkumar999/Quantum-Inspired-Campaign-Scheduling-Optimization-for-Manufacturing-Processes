@@ -22,6 +22,8 @@ The dataset consists of 1000 manufacturing jobs detailing:
 
 For scheduling optimization, the focus is on `Job_ID`, `Machine_ID`, `Processing_Time`, and `Machine_Availability`.
 
+![Alt text](https://www.perplexity.ai/search/i-got-refferal-from-data-scien-fBCyvfIFTfywTJ5A34of_g)
+
 ---
 
 ## Methodology
